@@ -4,26 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f48398d-2380-4ba7-811d-1c62c3cacb99" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PythonProject1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/course_center_analytics/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/course_center_analytics/analytics/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/course_center_analytics/analytics/analyzer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/course_center_analytics/analytics/data_loader.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/course_center_analytics/analytics/decorators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/course_center_analytics/analytics/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/course_center_analytics/analytics/report.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/course_center_analytics/analytics/validators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/course_center_analytics/analytics/visualizer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/course_center_analytics/data/enrollments.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/course_center_analytics/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/course_center_analytics/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/course_center_analytics/tests/test_analyzer.py" afterDir="false" />
-    </list>
+    <list default="true" id="5f48398d-2380-4ba7-811d-1c62c3cacb99" name="Changes" comment="Initial project commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,6 +20,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/temeshamina2007/course-center-analytics",
+    "accountId": "f01c732e-2958-4c80-8f5c-0d24cdc406bb"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 2
 }]]></component>
@@ -72,6 +59,27 @@
       <option name="presentableId" value="Default" />
       <updated>1777402901963</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial project commit">
+      <option name="closed" value="true" />
+      <created>1777405586357</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1777405586358</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial project commit">
+      <option name="closed" value="true" />
+      <created>1777405694805</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1777405694805</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial project commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial project commit" />
   </component>
 </project>
