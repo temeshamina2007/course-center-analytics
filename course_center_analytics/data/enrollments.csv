@@ -1,0 +1,30 @@
+student_name,course_name,category,price,paid_amount,payment_status,enrollment_date,manager,email
+Amina Temesh,Python Basics,Programming,70000,70000,Paid,2026-01-15,Amina,amina@gmail.com
+Daniyar Saparov,Web Design,Design,85000,40000,Partial,2026-01-20,Amina,daniyar@gmail.com
+Madina Omarova,English B2,Languages,60000,60000,Paid,2026-02-01,Amina,madina@gmail.com
+Arman Ilyasov,Data Analytics,Programming,120000,120000,Paid,2026-02-10,Amina,arman@gmail.com
+Aigerim Nurlan,IELTS,Languages,90000,30000,Partial,2026-03-05,Amina,aigerim@gmail.com
+Dias Karimov,Python Basics,Programming,70000,70000,Paid,2026-03-12,Amina,dias@gmail.com
+Dana Serik,Graphic Design,Design,95000,0,Unpaid,2026-03-18,Amina,dana@gmail.com
+Aliya Beket,Data Analytics,Programming,120000,60000,Partial,2026-04-02,Amina,aliya@gmail.com
+Miras Sultan,IELTS,Languages,90000,90000,Paid,2026-04-09,Amina,miras@gmail.com
+Tomiris Akhmet,Web Design,Design,85000,85000,Paid,2026-04-15,Amina,tomiris@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
